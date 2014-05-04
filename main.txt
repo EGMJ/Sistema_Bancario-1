@@ -1,0 +1,22 @@
+int main {
+solicitar parametros
+TFila<TPessoa>*ce, cg;
+ce=new TFila <TPessoa> [n];
+cg=new TFila <TPessoa> [m];
+for (int i=0; i<n; i++) {
+    inicializaF(ce[i]);
+} // --> mesmo com cg.
+//distribuir pessoas antes da "Y" simulação.
+for (int t=1; t<=T; t++){
+   //chegam "X" pessoas
+   //distribuir estas pessoas
+   //atendimento
+}
+//apresentar a media das filas
+
+
+
+passo 
+
+passar tudo pra void
+remover as pessoas da fila

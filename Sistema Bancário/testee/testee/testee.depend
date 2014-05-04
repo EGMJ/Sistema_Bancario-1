@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1398123593 source:c:\users\notebook\desktop\testee\main.cpp
+	<iostream>
+	<conio2.h>
+	"fila.h"
+
+1398118055 c:\users\notebook\desktop\testee\fila.h
+
+1398124126 source:c:\users\dell\desktop\sistema bancário\testee\testee\main.cpp
+	<iostream>
+	<conio2.h>
+	"fila.h"
+
+1398118055 c:\users\dell\desktop\sistema bancário\testee\testee\fila.h
+
+1399173401 source:c:\users\dell\documents\github\sistema_bancario\sistema bancário\testee\testee\main.cpp
+	<iostream>
+	<conio2.h>
+	"fila.h"
+
+1398118055 c:\users\dell\documents\github\sistema_bancario\sistema bancário\testee\testee\fila.h
+
